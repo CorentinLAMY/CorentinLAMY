@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CorentinLAMY
 - 👀 I’m interested mechatronics and robotics
 - 📚 I'm an engineer in mechatronics from Polytech Annecy-Chambéry
-- 🌱 I’m currently learning OpenCV in C++ and Embedded developpement on PIC32/STM32
+- 🌱 I’m currently learning OpenCV in C++ and Embedded developpement on STM32
 - 📫 How to reach me -> lamy.corentin97@gmail.com
