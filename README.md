@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @CorentinLAMY
+## 👋 Hi, I’m Corentin LAMY
 
 - 🏢 I'm a mechatronic engineer for BRP Inc in Canada
 - 👀 I’m interested about engineering globally and expecially on robotics
