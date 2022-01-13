@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Corentin LAMY
 
-- 🏢 I'm a mechatronic engineer for BRP Inc in Canada
+- 🏢 I'm a mechatronic engineer for BRP in Canada
 - 👀 I’m interested about engineering globally and expecially on robotics
 - 📚 I'm graduated in mechatronics from Polytech Annecy-Chambéry
 - 🌱 I’m currently learning Embedded developpement on STM32 and improving my PCB design skills
@@ -19,6 +19,6 @@
 - Python
 
 #### Learnings list:
-    - React
-    - Node.js
-    - Dart
+- React
+- Node.js
+- Dart
