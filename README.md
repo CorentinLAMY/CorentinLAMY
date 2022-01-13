@@ -18,7 +18,7 @@
 - C/C++
 - Python
 
-### Devlopment platforms for Embedded Systems
+### Development platforms for Embedded Systems
 
 - STM32
 - PIC32
