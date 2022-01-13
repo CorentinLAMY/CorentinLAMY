@@ -13,10 +13,12 @@
 - C.A.D (Computer Aided Design) -> SolidWorks, FreeCAD
 - E.C.A.D (Electronic Aided Design) -> Eagle CAD, KiCad
 
-### 💻 Programming Languages
+### 💻 Programming Languages and plateforms
 
 - C/C++
 - Python
+
+- Arduino, ESP32, STM32, PIC32
 
 #### Learnings list:
 - React
