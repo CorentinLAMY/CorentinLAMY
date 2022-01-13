@@ -18,8 +18,13 @@
 - C/C++
 - Python
 
+### Devlopment platforms for Embedded Systems
 
-- Arduino, ESP32, STM32, PIC32
+- STM32
+- PIC32
+- Arduino
+- ESP32
+
 
 #### Learnings list:
 - React
